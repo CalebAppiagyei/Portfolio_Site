@@ -1,0 +1,51 @@
+{
+    "skills": [
+        {
+            "id": "1", 
+            "src": "./img/Backend.png", 
+            "title": "Back-End", 
+            "description": "Assisted in the management of API endpoints and created tests against them to ensure optimal enpoint functionality"
+        },
+        {
+            "id": "2", 
+            "src": "./img/data_image.jpg", 
+            "title": "Database Management", 
+            "description": "Exercised multiple aspects of database management including data parsing, cleaning, formatting and database expansion"
+        },
+        {
+            "id": "3", 
+            "src": "./img/unit_testing.png", 
+            "title": "Unit Testing", 
+            "description": "Implemented various unit testing concepts by utilizing testing frameworks such as JUnit and pytest"
+        },
+        {
+            "id": "4", 
+            "src": "./img/aiml.png", 
+            "title": "AI/ML", 
+            "description": "Incorporated small forms of artificial intelligence algorithms as well as machine learning tools with personal projects"
+        }
+    ],
+    "portfolio": [
+        {
+            "id": "1", 
+            "src": "./img/Basketball_image.jpg", 
+            "title": "Player Improvement Metric", 
+            "description": "Incorporated Web Scraping, Data Cleaning, and Machine Learning techniques to form a player improvement metric over 2 NBA seasons",
+            "link": "https://github.com/CalebAppiagyei/Player_Improvement_Metric"
+        },
+        {
+            "id": "2", 
+            "src": "./img/Chess_image.jpg", 
+            "title": "AI Chess Game", 
+            "description": "Created a Chess Game that allows for Player vs Player and Player vs Computer matches. The Computer uses ai algorithms to calculate its next move",
+            "link": "https://github.com/CalebAppiagyei/AI_Chess_Project"
+        },
+        {
+            "id": "3", 
+            "src": "./img/Web_image.jpg", 
+            "title": "Portfolio Site", 
+            "description": "In an attempt to familiarize myself with React and other Front-End frameworks, I decided to create this portfolio website and learn how to integrate these tools",
+            "link": "https://github.com/CalebAppiagyei/Portfolio_Site"
+        }
+    ]
+}
